@@ -25,7 +25,7 @@ By examining these patterns, we can gain a deeper understanding of communication
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Rakesh-konne/Whatsappgrpchatanalysis.git](https://github.com/Rakesh-konne/Whatsappgrpchatanalysis.git)
+   git clone (https://github.com/Rakesh-konne/Whatsappgrpchatanalysis.git)
 ## usage
 -Export your WhatsApp group chat and place the text file in the data/ directory.
 -Run the Jupyter notebook and upload the text file from the data/ directory.
