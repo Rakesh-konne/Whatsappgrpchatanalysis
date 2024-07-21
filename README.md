@@ -26,7 +26,7 @@ By examining these patterns, we can gain a deeper understanding of communication
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rakesh-konne/Whatsappgrpchatanalysis.git
-2.Make Sure to install python 
+2. Make Sure to install python 
 
 3. Make sure to install matplotlib else use below command:
    ```bash
